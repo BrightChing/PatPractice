@@ -29,8 +29,6 @@ int main()
             n /= 2;
         count++;
     }
-    printf("%d", count);
-    getchar();
-    getchar();
+    printf("%d\n", count);
     return 0;
 }
