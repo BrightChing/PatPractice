@@ -12,24 +12,24 @@
 
 输出格式：每个字符串的检测结果占一行，如果该字符串可以获得“答案正确”，则输出YES，否则输出NO。
 输入样例：
-    8
-    PAT
-    PAAT
-    AAPATAA
-    AAPAATAAAA
-    xPATx
-    PT
-    Whatever
-    APAAATAA
-    输出样例：
-    YES
-    YES
-    YES
-    YES
-    NO
-    NO
-    NO
-    NO
+8
+PAT
+PAAT
+AAPATAA
+AAPAATAAAA
+xPATx
+PT
+Whatever
+APAAATAA
+输出样例：
+YES
+YES
+YES
+YES
+NO
+NO
+NO
+NO
 */
 
 #include<stdio.h> 
